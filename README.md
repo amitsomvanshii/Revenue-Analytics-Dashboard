@@ -56,3 +56,5 @@ Reveals top-performing regions and customer segments
 Supports strategic planning and revenue growth
 
 ## Snapshot
+Show what the dashboard looks like. - ![Alt text] (https://github.com/amitsomvanshii/Revenue-Analytics-Dashboard/blob/main/Dashboard.png).
+Example: ![Dashboard Preview](https://github.com/amitsomvanshii/Revenue-Analytics-Dashboard/blob/main/Dashboard.png).
